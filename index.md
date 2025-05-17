@@ -158,7 +158,7 @@ Let's compare how plugin architectures stack up against other common approaches.
         * Central control with distributed feature development.
         * Modular development is key; plugins generally use the host's tech stack (React for Backstage).
 
-*(Speaker: Emphasize that it's not about one being universally "better," but about choosing the right tool for the job based on project needs, team structure, and scalability goals.)*
+
 
 ---
 
@@ -496,13 +496,25 @@ By understanding these principles from Backstage, you can design a React applica
 **Start small, define clear contracts (APIs), and iterate!**
 
 ---
+## 🌍 Open Source Contribution Opportunities
 
-## 8. Q&A
+If you're excited about plugin-based architecture and want to contribute to real-world projects, here are some open source opportunities you can explore:
+
+### 🧩 [Backstage](https://github.com/backstage/backstage)
+The core platform built by Spotify and now a CNCF project. Everything in Backstage is a plugin—from CI/CD dashboards to Kubernetes monitoring and documentation systems.
+
+### 🌱 [Backstage Community Plugins](https://github.com/backstage/community-plugins)
+A collection of open source plugins maintained by the community. These plugins extend Backstage with integrations for GitHub, Jenkins, Datadog, and more.
+
+
+
 
 **Thank You!**
+ ### Opensource contribution opportunities 
 
-* Your Name/Contact Info
-* Link to Slides (if applicable)
-* Link to Demo/Repo (if applicable)
+* Mitesh Kumar [Linkedin](https://www.linkedin.com/in/mitesh-kumar-b0818b143/)
+* Subscribe to my newsletter [Engineering the Frontend](https://www.linkedin.com/newsletters/engineering-the-frontend-7283499721103417348/)
+
 
 ---
+## 8. Q&A
