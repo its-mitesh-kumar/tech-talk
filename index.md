@@ -60,11 +60,15 @@
     * **Vast Ecosystem:**
         * Key official plugins: Service Catalog, Scaffolder (for new projects), TechDocs, Kubernetes integration, etc.
         * **Over 100+ community plugins** (and growing!), showcasing massive extensibility (e.g., integrations with GitHub, GitLab, Jenkins, Grafana).
-        * *(Speaker Note: This is where you can show your screenshot of the Backstage UI, perhaps highlighting the plugin marketplace or a dashboard with many plugin-provided widgets.)*
-        * **[Placeholder for Backstage UI Screenshot Description - e.g., "This screenshot shows a typical Backstage dashboard populated by various plugins like 'Owned Systems', 'CI/CD Status', and 'TechDocs search'."]**
-        * *(Speaker Note: Mention your recording of the plugin marketplace list here to illustrate the variety.)*
-        * **[Placeholder for mentioning plugin marketplace recording - e.g., "As you can see in this quick scroll through the plugin marketplace (from my recording), the range of available integrations is extensive..."]**
-    * **Scale & Complexity Managed:**
+        
+    
+
+
+https://github.com/user-attachments/assets/8c7506b5-4078-4972-90c5-a4f4ba8cef6f
+
+<img width="1710" alt="Screenshot 2025-05-17 at 12 16 38 PM" src="https://github.com/user-attachments/assets/2012f28e-7755-4dcc-9b20-628744cb19d8" />
+
+* **Scale & Complexity Managed:**
         * The main `backstage/backstage` monorepo has millions of lines of code and hundreds of contributors.
         * This scale is manageable *because* of the plugin architecture, which allows for modularity and distributed ownership.
 
