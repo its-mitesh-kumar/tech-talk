@@ -47,8 +47,6 @@
 * **Technology Lock-in:** Hard to adopt new technologies or approaches for different parts of the application.
 * **Onboarding Challenges:** New developers face a steep learning curve.
 
-*(Speaker: Briefly touch upon personal experiences or common industry pain points)*
-
 ---
 
 ## 2. Overview of Backstage.io: A Plugin-Powered Platform
