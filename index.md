@@ -1,4 +1,4 @@
-#Scaling React with Plugins: Build a Backstage-Style Architecture That Powers Open Source Platforms
+# Scaling React with Plugins: Build a Backstage-Style Architecture That Powers Open Source Platforms
 
 ## Agenda
 
